@@ -17,7 +17,7 @@ Todos los talleres crean el mismo Space Quiz desde una carpeta vacía, así que 
 
 ### [Recorrido por la aplicación GitHub Copilot][copilot-app]
 
-Crea un Space Quiz lleno de color desde una carpeta vacía y recorre todo el ciclo de desarrollo: crear, perfeccionar, probar, recoger las instrucciones del proyecto, publicar, planificar el trabajo, implementar incidencias, revisar y combinar una solicitud de incorporación de cambios, automatizar tareas recurrentes y explorar una extensión de Canvas.
+Crea un Space Quiz lleno de color desde una carpeta vacía y recorre todo el ciclo de desarrollo: crear, perfeccionar, probar, recoger las instrucciones del proyecto, publicar en GitHub Pages, planificar el trabajo, implementar incidencias, revisar y combinar una solicitud de incorporación de cambios, automatizar tareas recurrentes y explorar una extensión de Canvas.
 
 ### [Primeros pasos con GitHub Copilot CLI][copilot-cli]
 

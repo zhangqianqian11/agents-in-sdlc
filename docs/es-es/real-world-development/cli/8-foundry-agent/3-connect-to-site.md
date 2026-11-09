@@ -91,6 +91,6 @@ Continúa con [Repaso y próximos pasos][review] para terminar el taller de CLI.
 
 [overview]: ../
 [previous-lesson]: ../2-build-and-deploy/
-[review]: ../../9-review/
+[review]: ../../10-review/
 [playwright-lesson]: ../../4-mcp/
 [cleanup]: ../#elimina-los-recursos
